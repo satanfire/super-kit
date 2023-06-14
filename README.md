@@ -6,4 +6,4 @@
 
 1. mysql表自动生成struct代码
 
-    > ./super-kit mysql struct --host rm-2zehnu43z8r1g510w6o.mysql.rds.aliyuncs.com:3306 -u luka -p _luka123 -d luna_luka -t robots
+    > ./super-kit mysql struct --host host:3306 -u xxx -p xxx -d xxx -t xxxx
