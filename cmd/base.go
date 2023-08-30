@@ -13,4 +13,5 @@ func Exec() error {
 func init() {
 	// 添加子命令
 	rootCmd.AddCommand(mysqlCmd)
+	rootCmd.AddCommand(ipTransCmd)
 }
